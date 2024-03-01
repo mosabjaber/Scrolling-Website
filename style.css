@@ -67,8 +67,9 @@ header ul li a:hover,
   color: #fff;
   font-size: 25px;
   text-transform: uppercase;
-  transform: translateY(-145px);
+  transform: translateY(-165px);
   overflow: hidden;
+  transition: 0.1s;
 }
 .content {
   color: #fff;
